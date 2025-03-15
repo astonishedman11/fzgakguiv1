@@ -4668,7 +4668,7 @@ G2L["1c9"]["ZIndex"] = 2;
 G2L["1c9"]["Size"] = UDim2.new(0.5, -3, 0, 30);
 G2L["1c9"]["Name"] = [[Become Owner in Personal Server]];
 G2L["1c9"]["BorderColor3"] = Color3.fromRGB(255, 0, 0);
-G2L["1c9"]["Text"] = [[Become Owner [PS]]];
+G2L["1c9"]["Text"] = [[Become Owner [PS]];
 G2L["1c9"]["Position"] = UDim2.new(0.5, 3, 0, 66);
 
 
